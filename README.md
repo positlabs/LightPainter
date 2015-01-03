@@ -3,7 +3,9 @@ LightPainter
 
 Open-source fork of Light Paint Live (Android)
 
-http://lightpaintlive.com/
+https://play.google.com/store/apps/details?id=com.positlabs.lightpaintlive&hl=en
+
+More light painting apps at http://lightpaintlive.com/
 
 License
 ============
